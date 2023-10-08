@@ -1,0 +1,39 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+    background-color: #A9A9A9;
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1920px) {
+    .grayphone-1 {
+    display: flex;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-top: 200px;
+}
+
+    .avatar-1 {
+    display: flex;
+    margin-left: 26%;
+    margin-top: -480px;
+}
+
+    .nickname-1 {
+    display: flex;
+    color: black;
+    margin-left: 16.5%;
+    margin-top: -21px;
+    font-size: 30px;
+}
+    .lorem {
+        display: flex;
+        font-size: 20px;
+        font-style: normal;
+        line-height: normal;
+        font-weight: 150;
+        width: 700px;
+        margin-left: 20%;
+        color: black;
+    }
+
+}
+
